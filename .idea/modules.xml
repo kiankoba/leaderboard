@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/leaderboard.iml" filepath="$PROJECT_DIR$/leaderboard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/leaderboard.iml" filepath="$PROJECT_DIR$/.idea/leaderboard.iml" />
     </modules>
   </component>
 </project>
